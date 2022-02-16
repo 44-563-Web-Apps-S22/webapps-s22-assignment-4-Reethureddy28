@@ -7,7 +7,7 @@
     font-family: 'Times New Roman', Times, serif;
     font-size:14px;
     color: black;
-    background-color: bisque;
+    background-color: rgb(247, 244, 241);
 }
 .name{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -20,10 +20,10 @@
 }
 .Orgon
 {
-    color: rgb(26, 199, 104);
+    color: rgb(26, 159, 199);
 }
 .Mariane{
-    color: rgb(69, 22, 196);
+    color: rgb(196, 22, 182);
 }
 .name:hover {
     border: 1px solid #7d4cd8;
